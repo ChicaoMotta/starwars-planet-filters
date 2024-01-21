@@ -79,16 +79,16 @@ Bem-vindo ao Starwars Plane Search! Esta aplicação React foi desenvolvida para
  `git clone https://github.com/seu-nome/starwars-plane-search.git`
 ```
 
-3.
+3. Instale as dependências:
 
 ```bash
-Instale as dependências: `npm install`
+ `npm install`
 ```
 
-4.
+4.  Execute a aplicação:
 
 ```bash
- Execute a aplicação: `npm start`
+ `npm start`
 ```
 
 ## Como Testar:
