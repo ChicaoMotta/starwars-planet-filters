@@ -1,7 +1,3 @@
-Certainly! Here is the README file for your GitHub repository in both English and Portuguese:
-
-**English:**
-
 # Starwars Plane Search
 
 Welcome to Starwars Plane Search! This React application is designed to search and display information about planets in the Star Wars universe. The project utilizes React, the Jest testing library, and manages state with the Context API. It features custom-built filters that allow users to refine their search based on various criteria. Styling is done using Bootstrap.
@@ -24,9 +20,22 @@ Welcome to Starwars Plane Search! This React application is designed to search a
 ## How to Run:
 
 1. Ensure you have Node.js version 16 or 18 installed.
-2. Clone the repository: `git clone https://github.com/your-username/starwars-plane-search.git`
-3. Install dependencies: `npm install`
-4. Run the application: `npm start`
+2. Clone the repository:
+ 
+```bash
+ `git clone https://github.com/seu-nome/starwars-plane-search.git`
+```
+3. Install dependencies: 
+
+```bash
+ `npm install`
+```
+
+4. Run the application:
+   
+  ```bash
+`npm start`
+```
 
 ## How to Test:
 
@@ -70,16 +79,16 @@ Bem-vindo ao Starwars Plane Search! Esta aplicação React foi desenvolvida para
  `git clone https://github.com/seu-nome/starwars-plane-search.git`
 ```
 
-3.
+3. Instale as dependências:
 
 ```bash
-Instale as dependências: `npm install`
+ `npm install`
 ```
 
-4.
+4.  Execute a aplicação:
 
 ```bash
- Execute a aplicação: `npm start`
+ `npm start`
 ```
 
 ## Como Testar:
