@@ -9,7 +9,7 @@ export default function Table() {
     activeFilters,
   } = useContext(context);
   return (
-    <table className="table">
+    <table className="table pb-5 mb-5">
       {console.log(tableHeader)}
       <thead>
         <tr>

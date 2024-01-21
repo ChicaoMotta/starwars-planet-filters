@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <section>
+    <section className="mb-5">
       <div className="container">
         <div className="row justify-content-center align-items-center">
           <div className="col-12 m-5 text-center bg-dark">

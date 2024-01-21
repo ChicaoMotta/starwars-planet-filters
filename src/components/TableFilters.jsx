@@ -99,7 +99,7 @@ export default function TableFilters() {
           Remover todas filtragens
         </button>
         {activeFilters.map((filter, index) => (
-          <div key={ index } id={ filter.fields } data-testid="filter">
+          <div key={ index } id={ filter.fields } data-testid="filter" className="col-12 m-3">
             {`${filter.fields} ${filter.comparison} ${filter.number}`}
             <button onClick={ deleteSelectedFilter }>X</button>
           </div>
