@@ -21,7 +21,7 @@ Welcome to Starwars Plane Search! This React application is designed to search a
 
 1. Ensure you have Node.js version 16 or 18 installed.
 2. Clone the repository:
-3. 
+ 
 ```bash
  `git clone https://github.com/seu-nome/starwars-plane-search.git`
 ```
