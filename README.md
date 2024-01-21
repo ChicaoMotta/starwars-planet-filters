@@ -1,7 +1,3 @@
-Certainly! Here is the README file for your GitHub repository in both English and Portuguese:
-
-**English:**
-
 # Starwars Plane Search
 
 Welcome to Starwars Plane Search! This React application is designed to search and display information about planets in the Star Wars universe. The project utilizes React, the Jest testing library, and manages state with the Context API. It features custom-built filters that allow users to refine their search based on various criteria. Styling is done using Bootstrap.
